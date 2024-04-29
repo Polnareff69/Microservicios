@@ -44,7 +44,7 @@ jobs:
 
     - name: Build the Docker image 
 
-      run: docker build . --file Dockerfile --tag juanjmunozg/express-randomquotes:latest 
+      run: docker build . --file Dockerfile --tag juanjmunozg/express-randomquotes 
 
        
 
